@@ -1,2 +1,3 @@
 # Sorting and search algorithms-visualization
 Visualization of sorting and search algorithms using Python - Tkinter module and matplotlib library
+This is my first bigger project, so the code is not professional, but it works, so...
